@@ -40,7 +40,7 @@ void heapSort(int T[], int n) {
 }
 
 int main() {
-    int array[] = {10, 7, 21, 8, 4, 1};
+    int array[] = {2, 3, 4, 5};
     int len = sizeof array/sizeof array[0]-1;;
 
     buildHeap(array, len);
