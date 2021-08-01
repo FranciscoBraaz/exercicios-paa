@@ -40,6 +40,6 @@ O repositório contém as resoluções dos exercícios estudados na disciplina d
  	- Problema das N rainhas
  	- Problema da mochila com backtracking
  	
-_ **Algoritmos probabilísticos**
+- **Algoritmos probabilísticos**
 	- Monte Carlo
 	- Las Vegas
